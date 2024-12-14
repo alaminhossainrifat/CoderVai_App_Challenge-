@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.weather_app_dev.app-mergeDebugResources-33:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\RIAN\\.gradle\\caches\\transforms-4\\1dea3989dbaf83e06e7f339790fb21a0\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
